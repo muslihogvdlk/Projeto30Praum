@@ -18,6 +18,9 @@ Aplicação desktop de música da gravadora 30Praum, integrada a um banco de dad
 ![Redefinição de senha](imagens/04-redefinir-senha.png)
 ![Escolha do artista](imagens/05-artistas.png)
 ![Página do artista](imagens/06-pagina-artista.png)
+![Página do artista Teto](imagens/07-pagina-teto.png)
+![Página do artista Brandão85](imagens/08-pagina-brandao85.png)
+![Página do artista Wiu](imagens/09-pagina-wiu.png)
 
 ## Tecnologias
 
