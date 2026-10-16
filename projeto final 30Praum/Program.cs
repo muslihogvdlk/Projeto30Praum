@@ -16,7 +16,7 @@ namespace projeto_final_30Praum
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_musicas  ());
+            Application.Run(new frm_abertura  ());
         }
     }
 }
